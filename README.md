@@ -1,3 +1,3 @@
-# belarussian_treebank_social_media
+# Trasianka treebank
 
-The treebank on the Belarussian language based on the instagram posts 
+Trasianka is a mixed form of speech in which Belarussian and Russian languages structures and words are used. Following the [https://en.wikipedia.org/wiki/Trasianka](Wikipedia) information about 16,1 % of Belarussians use regularly trasianka (It's about 1.6-2 million people). To recognise the linguistic status of trasianka,  in the years 2008-2013, a research project carried out by linguists and social scientists at the University of Oldenburg (in cooperation with partners from the Belarusian State University in Minsk) created two bodies of [https://uol.de/ru/ok-wrgr/versiya-dlya-skachivaniya](oral texts) in the mixed speech. It will be used as tha base for the treebank 
