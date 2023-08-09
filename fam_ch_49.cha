@@ -1,0 +1,598 @@
+﻿@UTF8
+@Begin
+@Languages:	hyru, rus
+@Participants:	CFK Migrant, CFA Migrant, CFN Town
+@ID:	hyru|fam|CFK|42;|female|central||Migrant|professional||
+@ID:	hyru|fam|CFA|42;|female|central||Migrant|secondary||
+@ID:	rus|fam|CFN|20;|female|central||Town|secondary||
+@L1 of CFK:	brms
+@L1 of CFA:	brms
+@L1 of CFN:	brms
+@MT of CFK:	be
+@MT of CFA:	be
+@MT of CFN:	be
+@FL of CFK:	brms
+@FL of CFA:	brms
+@FL of CFN:	brms
+@Situation:	Conversation at home (while looking at photographs)
+*CFK:	a@c@pc jetâ@b@pc@dial ?
+%mor:	c:pc#ptl|_a_a_ b:pc#pro:dem|_héty_0_&NOM-N:SG ?
+*CFK:	što@c@pc jta@b@pc@dial tut@c@pc takojê@c@pc ?
+%mor:	c:pc#conj|_što_čto_ b:pc#pro:dem|_héty_0_&NOM-N:SG c:pc#adv|_tut_tut_ c:pc#pro:dem|_taki_takoj_&NOM-N:SG ?
+*CFK:	xto@b@pc jta@b@pc@dial takej@b@pc@dial ?
+%mor:	b:pc#pro:int|_chto_0_&NOM-M:SG b:pc#pro:dem|_héty_0_&NOM-N:SG b:pc#pro:dem|_taki_takoj_&NOM-M:SG ?
+*CFA:	nu@c@pc ka@r@pc pâkažy@c@pc ka@r@pc .
+%mor:	c:pc#ptl|_nu_nu_ r:pc#ptl|_0_ka_ c:pc#v:pf|_pakazac´_pokazat´_&IMPER-2:SG r:pc#ptl|_0_ka_ .
+*CFA:	inciresnâ@r@ph .
+%mor:	r:ph#adv|_0_interesno_ .
+*CFK:	a@c@pc étâ@r@pc dzed@c@pb .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pb#n:anim|_dzed_ded_&NOM-M:SG .
+*CFK:	étâ@r@pc persname .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#n:loc|_persname_&NOM-M:SG .
+*CFA:	ú@b@pb molâdâscê@r@pb , vidzêš@r@pb ?
+%mor:	b:pb#prep|_u_0_ r:pb#n:inanim|_maladosc´_molodost´_&GEN-F:SG r:pb#v:ipf|_0_videt´_&PRAES-2:SG ?
+*CFK:	a@c@pc étâ@r@pc mamkâ@b@pc ščé@b@pb@w ú@b@pb paslednêj@r@pc hod@c@pb byla@c@pc ú@b@pb sânatorêjê@c@pr .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem|_0_étot_&NOM-F:SG b:pc#n:anim|_mamka_0_&NOM-F:SG b:pb#adv|_jaščé_0_ b:pb#prep|_u_0_ r:pc#adj|_0_poslednij_&ACC-M:SG c:pb#n:inanim|_hod_god_&ACC-M:SG c:pc#v:ipf|_byc´_byt´_&PRAET-F:SG b:pb#prep|_u_0_ c:pr#n:inanim|_sanatoryj_sanotorij_&LOC-M:SG .
+*CFK:	a@c@pc étâ@r@pc , vun@b@pc pomnêš@c@pc , što@c@pc ú@c@pb nas@c@pc persname étâ@r@pc +...
+%mor:	c:pc#ptl|_a_a_ r:pc#ptl|_0_éto_ b:pc#co|_vun´_0_ c:pc#v:ipf|_pomnic´_pomnit´_&PRAES-2:SG c:pc#conj|_što_čto_ c:pb#prep|_u_u_ c:pc#pro:pers:dei|_my_my_&GEN-1:PL c:pc#n:prop|_persname_&NOM-F:SG r:pc#pro:dem|_0_étot_&NOM-F:SG +...
+*CFK:	u@b@pc lêninhradzê@c@pb .
+%mor:	b:pc#prep|_u_0_ c:pb#n:loc|_leninhrad_leningrad_&LOC-M:SG .
+*CFK:	u@b@pc (.) hirmanêjê@c@ph byla@c@pc ú@c@pb nas@c@pc persname .
+%mor:	b:pc#prep|_u_0_ c:ph#n:loc|_hermanija_germanija_&LOC-F:SG c:pc#v:ipf|_byc´_byt´_&PRAET-F:SG c:pb#prep|_u_u_ c:pc#pro:pers:dei|_my_my_&GEN-1:PL c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	tam@c@pc takajê@c@pc tëtkâ@c@pr .
+%mor:	c:pc#adv|_tam_tam_ c:pc#pro:dem|_taki_takoj_&NOM-F:SG c:pr#n:anim|_cëcja_tetka_&NOM-F:SG .
+*CFK:	tak@c@pc vot@r@pc jaje@b@pb mal´čýk@r@pb .
+%mor:	c:pc#ptl|_tak_tak_ r:pc#ptl|_0_vot_ b:pb#pro:poss:ana|_jae_ee_&0-M:SG r:pb#n:anim|_0_mal´čik_&NOM-M:SG .
+*CFK:	ta@b@pc jon@b@pc ú@b@pb plat´têkê@u@pr prostâ@c@pc adzet@r@pb .
+%mor:	b:pc#ptl|_to_0_ b:pc#pro:pers:ana|_ën_0_&NOM-M:SG b:pb#prep|_u_0_ u:pr#n:inanim|_0_0_&ACC-N:PL c:pc#adv|_prosta_prosto_ r:pb#part:pass:brev|_adzety_odetyj_&0-M:SG .
+*CFK:	étâ@r@pc dzjadz´kâ@b@pb persname , ty@c@pc nja@c@pb budzêš@c@pb znat´@c@pr .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pb#n:anim|_dzjadz´ka_djad´ka_&NOM-M:SG c:pc#n:prop|_persname_&NOM-M:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pb#ptl|_ne_ne_ c:pb#v:ipf|_byc´_byt´_&FUT-2:SG c:pr#v:ipf|_znac´_znat´_&INF-0:0 .
+*CFK:	étâ@r@pc vo@b@pc persname naš@c@pc mâladéj@b@pc@dial .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ b:pc#n:prop|_persname_&NOM-M:SG c:pc#pro:poss:dei|_naš_naš_&NOM-M:SG b:pc#adj|_malady_molodoj_&NOM-M:SG .
+*CFK:	étâ@r@pc vo@b@pc persname .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	dzedâ@c@pb xaronêt´@h@pr .
+%mor:	c:pb#n:anim|_dzed_ded_&GEN-M:SG h:pr#v:ipf|_0_choronit´_&PRAES-3:PL .
+*CFK:	étâ@r@pc našý@c@pc persname .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:poss:dei|_naš_naš_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	vidzêš@r@pb , ikajê@b@pr@w@dial ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pr#pro:int|_jaki_0_&NOM-F:SG ?
+*CFA:	vo@b@pc ikejê@b@pr@w@dial fâtahrafêjê@c@pb ran´šý@r@pc bylê@r@pc .
+%mor:	b:pc#ptl|_vo_0_ b:pr#pro:int|_jaki_0_&NOM-0:PL c:pb#n:inanim|_fatahrafija_fotografija_&NOM-F:PL r:pc#adv:cp|_0_ran´še_ r:pc#v:ipf|_byc´_byt´_&PRAET-0:PL .
+*CFK:	+< a@c@pc étâ@r@pc ja@c@pc , persname .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG r:pc#n:prop|_persname_&VOC-F:SG .
+*CFK:	étâ@r@pc ja@c@pc .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG .
+*CFK:	a@c@pc étâ@r@pc persname .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	a@c@pc étâ@r@pc mamkâ@b@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#n:anim|_mamka_0_&NOM-F:SG .
+*CFA:	da@r@pc ty@c@pc što@c@pc ?
+%mor:	r:pc#ptl|_0_da_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#pro:ptl|_što_čto_ ?
+*CFA:	pâkažy@c@pc ka@r@pc .
+%mor:	c:pc#v:pf|_pakazac´_pokazat´_&IMPER-2:SG r:pc#ptl|_0_ka_ .
+*CFK:	da@r@pc .
+%mor:	r:pc#ptl|_0_da_ .
+*CFK:	a@c@pc mamkê@h@pc dze-tâ@h@pb bylâ@r@pc stol´kâ@r@pc , skokâ@r@pc@w mne@c@pc ščas@r@pb@w let@r@pc .
+%mor:	c:pc#ptl|_a_a_ h:pc#n:anim|_mamka_0_&DAT-F:SG h:pb#adv|_dzes´ci_gde/to_ r:pc#v:ipf|_byc´_byt´_&PRAET-N:SG r:pc#pro:dem|_0_stol´ko_&na r:pc#pro:int|_0_skol´ko_&NOM-0:0 c:pc#pro:pers:dei|_ja_ja_&DAT-1:SG r:pb#adv|_0_sejčas_ r:pc#n:inanim|_0_god_&GEN-M:PL .
+*CFA:	da@r@pc ?
+%mor:	r:pc#ptl|_0_da_ ?
+*CFK:	da@r@pc .
+%mor:	r:pc#ptl|_0_da_ .
+*CFA:	ja@c@pc takoj@c@pc malâj@b@pc iščé@b@ph cjabe@b@pb (.) ni@c@pc razu@c@pc nja@c@pb vidzêlâ@r@pb , persname .
+%mor:	c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#pro:dem|_taki_takoj_&INS-F:SG b:pc#adj|_maly_0_&GEN-F:SG b:ph#adv|_jaščé_0_ b:pb#pro:pers:dei|_ty_ty_&ACC-2:SG c:pc#ptl|_ni_ni_ c:pc#n:inanim|_raz_raz_&GEN-M:SG c:pb#ptl|_ne_ne_ r:pb#v:ipf|_0_videt´_&PRAET-F:SG r:pc#n:prop|_persname_&VOC-F:SG .
+*CFK:	a@c@pc smešnâjê@b@pc takajê@c@pc , da@r@pc ?
+%mor:	c:pc#ptl|_a_a_ b:pc#adj|_smešny_smešnoj_&NOM-F:SG c:pc#pro:dem|_taki_takoj_&NOM-F:SG r:pc#ptl|_0_da_ ?
+*CFA:	nu@c@pc , ty@c@pc što@c@pc !
+%mor:	c:pc#ptl|_nu_nu_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#pro:ptl|_što_čto_ !
+*CFA:	oj@c@pc , vabščé@r@pb b@c@pc ni@c@pc paznalâ@b@pc , oj@c@pc !
+%mor:	c:pc#co|_oj_oj_ r:pb#adv|_0_voobšče_ c:pc#ptl|_by_by_ c:pc#ptl|_ne_ne_ b:pc#v:pf|_paznac´_0_&PRAET-F:SG c:pc#co|_oj_oj_ !
+*CFA:	ty@c@pc što@c@pc !
+%mor:	c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#pro:ptl|_što_čto_ !
+*CFK:	ta@b@pc hodzêkâ@c@pb , navernâ@r@pc , tri@c@pr tutâ@b@pc@dial bylâ@r@pc mne@c@pc .
+%mor:	b:pc#ptl|_to_0_ c:pb#n:inanim|_hodzik_godik_&GEN-M:SG r:pc#disc|_0_naverno_ c:pr#num:kard|_try_tri_&NOM-0:0 b:pc#adv|_tut_0_ r:pc#v:ipf|_byc´_byt´_&PRAET-N:SG c:pc#pro:pers:dei|_ja_ja_&DAT-1:SG .
+*CFK:	da@r@pc , vidzêš@r@pb ?
+%mor:	r:pc#ptl|_0_da_ r:pb#v:ipf|_0_videt´_&PRAES-2:SG ?
+*CFK:	hody@r@pb ta@c@pc prašli@r@pc .
+%mor:	r:pb#n:inanim|_hod_god_&NOM-M:PL c:pc#ptl|_to_to_ r:pc#v:pf|_0_projti_&PRAET-0:PL .
+*CFA:	što@c@pc hody@r@pb dzelâjuc´@h@pb s@r@pc namê@c@pc !
+%mor:	c:pc#pro:int|_što_čto_&ACC-N:SG r:pb#n:inanim|_hod_god_&NOM-M:PL h:pb#v:ipf|_0_delat´_&PRAES-3:PL r:pc#prep|_0_s_ c:pc#pro:pers:dei|_my_my_&INS-1:PL !
+*CFK:	vo@b@pc , persname .
+%mor:	b:pc#ptl|_vo_0_ r:pc#n:prop|_persname_&VOC-F:SG .
+*CFK:	pâsmatri@r@pr ka@r@pc .
+%mor:	r:pr#v:pf|_0_posmotret´_&IMPER-2:SG r:pc#ptl|_0_ka_ .
+*CFK:	vidzêš@r@pb , kakajê@r@pc ja@c@pc ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG r:pc#pro:int|_0_kakoj_&NOM-F:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG ?
+*CFK:	pal´tiškâ@r@pr ikojê@b@pc@w@dial našu@c@pc .
+%mor:	r:pr#n:inanim|_0_pal´tiško_&ACC-N:SG b:pc#pro:int|_jaki_0_&ACC-N:SG c:pc#v:ipf|_nasic´_nosit´_&PRAES-1:SG .
+*CFA:	+< a@c@pc vo@b@pc cëcê@c@pb persname .
+%mor:	c:pc#ptl|_a_a_ b:pc#ptl|_vo_0_ c:pb#n:anim|_cëcja_tetja_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	tëtê@c@pr persname .
+%mor:	c:pr#n:anim|_cëcja_tetja_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	savsem@r@pr ni@c@pc uznalâ@r@pc savsem@r@pr .
+%mor:	r:pr#adv|_0_sovsem_ c:pc#ptl|_ne_ne_ r:pc#v:pf|_0_uznat´_&PRAET-F:SG r:pr#adv|_0_sovsem_ .
+*CFK:	nu@c@pc dyk@b@pc malênkêjê@r@pc , kanešnâ@r@pc .
+%mor:	c:pc#ptl|_nu_nu_ b:pc#ptl|_dyk_0_ r:pc#adj|_malen´ki_malen´kij_&NOM-0:PL r:pc#disc|_0_konečno_ .
+*CFK:	malên´kêjê@r@pc .
+%mor:	r:pc#adj|_malen´ki_malen´kij_&NOM-0:PL .
+*CFA:	naskokâ@r@pc žyzn´@r@pc izminilâs´@r@pr , da@r@pc ?
+%mor:	r:pc#adv|_0_naskol´ko_ r:pc#n:inanim|_0_žizn´_&NOM-F:SG r:pr#v:pf|_0_izmenit´sja_&PRAET-F:SG r:pc#ptl|_0_da_ ?
+*CFA:	ikejê@b@pr@w@dial ščas@r@pb@w ljal´kê@b@pc dzecê@c@pb .
+%mor:	b:pr#pro:int|_jaki_0_&NOM-0:PL r:pb#adv|_0_sejčas_ b:pc#n:inanim|_ljal´ka_0_&NOM-F:PL c:pb#n:anim|_dzeci_deti_&na .
+*CFK:	da@r@pc .
+%mor:	r:pc#ptl|_0_da_ .
+*CFK:	ni@c@pc hâvari@c@ph ty@c@pc .
+%mor:	c:pc#ptl|_ne_ne_ c:ph#v:ipf|_havaryc´_govorit´_&IMPER-2:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG .
+*CFK:	adzety@b@pb .
+%mor:	b:pb#adj|_adzety_odetyj_&NOM-M:SG .
+*CFA:	adzety@b@pb !
+%mor:	b:pb#adj|_adzety_odetyj_&NOM-M:SG !
+*CFA:	a@c@pc to@c@pc .
+%mor:	c:pc#ptl|_a_a_ c:pc#conj|_to_to_ .
+*CFA:	pâljadzi@c@pb ikejê@b@pr@w@dial .
+%mor:	c:pb#v:pf|_pahljadzec´_pogljadet´_&IMPER-2:SG b:pr#pro:int|_jaki_0_&NOM-0:PL .
+*CFK:	pâljadzi@c@pb .
+%mor:	c:pb#v:pf|_pahljadzec´_pogljadet´_&IMPER-2:SG .
+*CFK:	pal´tiškâ@r@pc ikojê@b@pc@w@dial .
+%mor:	r:pc#n:inanim|_0_pal´tiško_&NOM-N:SG b:pc#pro:int|_jaki_0_&NOM-N:SG .
+*CFK:	čyrêz@r@ph puhâvêčku@r@pb .
+%mor:	r:ph#prep|_0_čerez_ r:pb#n:inanim|_0_pugovička_&ACC-F:SG .
+*CFA:	puhâvêcu@r@pb prostâ@c@pc ni@c@pc zâščapilâ@b@pb .
+%mor:	r:pb#n:inanim|_0_pugovica_&ACC-F:SG c:pc#adv|_prosta_prosto_ c:pc#ptl|_ne_ne_ b:pb#v:pf|_zaščapic´_0_&PRAET-F:SG .
+*CFA:	vun´@b@pc puhâvêcu@r@pb ja@c@pc vižu@r@pc .
+%mor:	b:pc#ptl|_vun´_0_ r:pb#n:inanim|_0_pugovica_&ACC-F:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG r:pc#v:ipf|_0_videt´_&PRAES-1:SG .
+*CFK:	ty@c@pc pâljadzi@c@pb , čornên´kâjê@c@pb puhâvêcý@r@pb i@c@pc belâjê@c@pc puhâvêcý@r@pb .
+%mor:	c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pb#v:pf|_pahljadzec´_pogljadet´_&IMPER-2:SG c:pb#adj|_čornen´ki_černen´kij_&NOM-F:SG r:pb#n:inanim|_0_pugovica_&NOM-F:SG c:pc#conj|_i_i_ c:pc#adj|_bely_belyj_&NOM-F:SG r:pb#n:inanim|_0_pugovica_&NOM-F:SG .
+*CFA:	nu@c@pc ladnâ@c@pc !
+%mor:	c:pc#ptl|_nu_nu_ c:pc#adv|_ladna_ladno_ !
+*CFA:	hlaúnâjê@r@pb , što@c@pc puhâvêcý@r@pb josc´@b@pb .
+%mor:	r:pb#adj|_0_glavnyj_&NOM-N:SG c:pc#conj|_što_čto_ r:pb#n:inanim|_0_pugovica_&NOM-F:PL b:pb#v:ipf|_byc´_0_&PRAES-3:SG .
+*CFK:	da@r@pc , puhâvêcý@r@pb jest´@r@pr .
+%mor:	r:pc#ptl|_0_da_ r:pb#n:inanim|_0_pugovica_&NOM-F:PL r:pr#v:ipf|_0_byt´_&PRAES-3:PL .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc persname (.) s@h@pc mosênâ@c@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG h:pc#prep|_z_s_ c:pc#n:loc|_mosin_mosin_&GEN-M:SG .
+*CFK:	našý@c@pc , persname .
+%mor:	c:pc#pro:poss:dei|_naš_naš_&NOM-F:SG c:pb#adj:prop|_persname_&NOM-F:SG .
+*CFA:	a@c@pc !
+%mor:	c:pc#co|_a_a_ !
+*CFA:	nu@c@pc étâ@r@pc ja@c@pc znaju@c@pc , da@r@pc .
+%mor:	c:pc#ptl|_nu_nu_ r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG r:pc#ptl|_0_da_ .
+*CFK:	étu@r@pc ty@c@pc znajêš@c@pc .
+%mor:	r:pc#pro:dem|_0_étot_&ACC-F:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#v:ipf|_znac´_znat´_&PRAES-2:SG .
+*CFK:	tutâ@b@pc@dial .
+%mor:	b:pc#adv|_tut_0_ .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc persname našý@c@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG c:pc#pro:poss:dei|_naš_naš_&NOM-F:SG .
+*CFA:	da@r@pc ?
+%mor:	r:pc#ptl|_0_da_ ?
+*CFK:	bâsjakom@c@pb stait´@b@pr .
+%mor:	c:pb#adv|_basjakom_bosikom_ b:pr#v:ipf|_stajac´_stojat´_&PRAES-3:SG .
+*CFA:	(.) vabščé@r@pb !
+%mor:	r:pb#adv|_0_voobšče_ !
+*CFK:	vidzêš@r@pb ikajê@b@pr@w@dial ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pr#pro:int|_jaki_0_&NOM-F:SG ?
+*CFK:	ikajê@b@pr@w@dial malên´kâjê@c@pc , a@c@pc persname úžy@r@pb úzroslâjê@r@pb dzevuškâ@r@pb byla@c@pc .
+%mor:	b:pr#pro:int|_jaki_0_&NOM-F:SG c:pc#adj|_malen´ki_malen´kij_&NOM-F:SG c:pc#conj|_a_a_ c:pc#n:prop|_persname_&NOM-F:SG r:pb#adv|_0_uže_ r:pb#adj|_0_vzroslyj_&NOM-F:SG r:pb#n:anim|_0_devuška_&NOM-F:SG c:pc#v:ipf|_byc´_byt´_&PRAET-F:SG .
+*CFA:	da@r@pc , da@r@pc , da@r@pc .
+%mor:	r:pc#ptl|_0_da_ r:pc#ptl|_0_da_ r:pc#ptl|_0_da_ .
+*CFK:	a@c@pc étyx@h@pc ja@c@pc , persname , ni@c@pr znaju@c@pc .
+%mor:	c:pc#ptl|_a_a_ h:pc#pro:dem|_héty_étot_&GEN-0:PL c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG r:pc#n:prop|_persname_&VOC-F:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG .
+*CFK:	ta@b@pc dzed@c@pb tol´kâ@r@pc znajêt´@b@pr@dial .
+%mor:	b:pc#ptl|_to_0_ c:pb#n:anim|_dzed_ded_&NOM-M:SG r:pc#adv|_0_tol´ko_ b:pr#v:ipf|_znac´_znat´_&PRAES-3:SG .
+*CFK:	étâ@r@pc mamkâ@b@pc ú@b@pb sânatorêjê@c@pr .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#n:anim|_mamka_0_&NOM-F:SG b:pb#prep|_u_0_ c:pr#n:inanim|_sanatoryj_sanatorij_&LOC-M:SG .
+*CFK:	a@c@pc jetâ@b@pc@dial vo@b@pc ty@c@pc budzêš@c@pb znat´@c@pr .
+%mor:	c:pc#ptl|_a_a_ b:pc#pro:dem|_héty_0_&ACC-N:SG b:pc#ptl|_vo_0_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pb#v:ipf|_byc´_byt´_&FUT-2:SG c:pr#v:ipf|_znac´_znat´_&INF-0:0 .
+*CFA:	nu@c@pc écêx@r@pb ja@c@pc znaju@c@pc , da@r@pc .
+%mor:	c:pc#ptl|_nu_nu_ r:pb#pro:dem|_0_étot_&ACC-0:PL c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG r:pc#ptl|_0_da_ .
+*CFK:	étê@r@pr vo@b@pc úse@c@pb +/.
+%mor:	r:pr#pro:dem|_0_étot_&NOM-0:PL b:pc#ptl|_vo_0_ c:pb#pro:det|_uves´_ves´_&NOM-0:PL +/.
+*CFA:	mâsjancy@c@pb našý@c@pc .
+%mor:	c:pb#n:anim|_masjanec_masjanec_&NOM-M:PL c:pc#pro:poss:dei|_naš_naš_&NOM-0:PL .
+*CFK:	+< étâ@r@pc ja@c@pc tožý@r@pc .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG r:pc#adv|_0_tože_ .
+*CFK:	étâ@r@pc ti@b@pr dvajurâdnyj@r@pc brat@c@pc tam@c@pc kakoj-tâ@r@pc +...
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pr#conj|_ci_0_ r:pc#adj|_dvajuradny_dvojurodnyj_&NOM-M:SG c:pc#n:anim|_brat_brat_&NOM-M:SG c:pc#adv|_tam_tam_ r:pc#pro:ind|_0_kakoj/to_&NOM-M:SG +...
+*CFK:	ja@c@pc jaho@b@pb ni@c@pr znaju@c@pc (.) dažý@r@pc .
+%mor:	c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG b:pb#pro:pers:ana|_ën_on_&ACC-M:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG r:pc#ptl|_0_daže_ .
+*CFK:	étâ@r@pc ty@c@pc tožý@r@pc nja@c@pb budzêš@c@pb znat´@c@pr .
+%mor:	r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG r:pc#adv|_0_tože_ c:pb#ptl|_ne_ne_ c:pb#v:ipf|_byc´_byt´_&FUT-2:SG c:pr#v:ipf|_znac´_znat´_&INF-0:0 .
+*CFK:	étâ@r@pc vo@b@pc persname persname .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG c:pb#n:prop|_persname_&NOM-F:SG .
+*CFK:	kak-tâ@r@pc jna@b@pc ú@c@pb mjane@b@pb tut@c@pc papalâ@c@pc ?
+%mor:	r:pc#adv|_0_kak/to_ b:pc#pro:pers:ana|_jana_0_&NOM-F:SG c:pb#prep|_u_u_ b:pb#pro:pers:dei|_ja_ja_&ACC-1:SG c:pc#adv|_tut_tut_ c:pc#v:pf|_papasci_popast´_&PRAET-F:SG ?
+*CFK:	vot@r@pc .
+%mor:	r:pc#ptl|_0_vot_ .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc persname stait@r@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG r:pc#v:ipf|_stajac´_stojat´_&PRAES-3:SG .
+*CFK:	ta@b@pc dom@c@pc strojêlê@r@pc .
+%mor:	b:pc#ptl|_to_0_ c:pc#n:inanim|_dom_dom_&ACC-M:SG r:pc#v:ipf|_0_stroit´_&PRAET-0:PL .
+*CFK:	i@c@pc tam@c@pc , vun@b@pc vidzêš@r@pb ?
+%mor:	c:pc#conj|_i_i_ c:pc#adv|_tam_tam_ b:pc#co|_vun´_0_ r:pb#v:ipf|_0_videt´_&PRAES-2:SG ?
+*CFK:	hlinâ@c@pb , tam@c@pc što-tâ@r@pc ani@r@pc mišalê@r@pr , i@c@pc vsë@c@pr .
+%mor:	c:pb#n:inanim|_hlina_glina_&NOM-F:SG c:pc#adv|_tam_tam_ r:pc#pro:ind|_štos´ci_čto/to_&ACC-N:SG r:pc#pro:pers:ana|_0_oni_&NOM-0:PL r:pr#v:ipf|_0_mešat´_&PRAET-0:PL c:pc#conj|_i_i_ c:pr#pro:det|_uves´_ves´_&NOM-N:SG .
+*CFA:	ta@b@pc ž@c@pc nadâ@r@pc , jaščé@b@pb takej@b@pc@dial vo@b@pc kadr@c@pc , da@r@pc ?
+%mor:	b:pc#ptl|_to_0_ c:pc#ptl|_ža_že_ r:pc#pred|_0_nado_ b:pb#adv|_jaščé_0_ b:pc#pro:dem|_taki_takoj_&NOM-M:SG b:pc#ptl|_vo_0_ c:pc#n:inanim|_kadr_kadr_&NOM-M:SG r:pc#ptl|_0_da_ ?
+*CFA:	takej@b@pc@dial vo@b@pc , étyt@r@pc samyj@r@pc , farmat@c@pc .
+%mor:	b:pc#pro:dem|_taki_takoj_&NOM-M:SG b:pc#ptl|_vo_0_ r:pc#pro:dem|_0_étot_&NOM-M:SG r:pc#pro:det|_samy_samyj_&NOM-M:SG c:pc#n:inanim|_farmat_format_&NOM-M:SG .
+*CFA:	takej@b@pc@dial malên´kêj@r@pc !
+%mor:	b:pc#pro:dem|_taki_takoj_&NOM-M:SG r:pc#adj|_malen´ki_malen´kij_&NOM-M:SG !
+*CFK:	+< ty@c@pc vidzêš@r@pb ?
+%mor:	c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG r:pb#v:ipf|_0_videt´_&PRAES-2:SG ?
+*CFK:	i@c@pc fâtahrafêjê@c@pb sâxranilês´@r@pc .
+%mor:	c:pc#conj|_i_i_ c:pb#n:inanim|_fatahrafija_fotografija_&NOM-F:PL r:pc#v:pf|_0_sochranit´sja_&PRAET-0:PL .
+*CFK:	skol´kâ@r@pc let@r@pc užy@r@pc !
+%mor:	r:pc#na|_0_skol´ko_&na r:pc#n:inanim|_0_god_&GEN-M:PL r:pc#adv|_0_uže_ !
+*CFA:	ty@c@pc što@c@pc !
+%mor:	c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#pro:ptl|_što_čto_ !
+*CFK:	ta@b@pc úžy@r@pb +...
+%mor:	b:pc#ptl|_to_0_ r:pb#adv|_0_uže_ +...
+*CFK:	i@c@pc vot@r@pc takejê@b@pc@dial fâtahrafêjê@c@pb xarošýjê@r@pc .
+%mor:	c:pc#conj|_i_i_ r:pc#ptl|_0_vot_ b:pc#pro:dem|_taki_takoj_&NOM-0:PL c:pb#n:inanim|_fatahrafija_fotografija_&NOM-F:PL r:pc#adj|_0_chorošij_&NOM-0:PL .
+*CFK:	nu@c@pc étâ@r@pc tožý@r@pc ja@c@pc ni@c@pr znaju@c@pc .
+%mor:	c:pc#ptl|_nu_nu_ r:pc#pro:dem|_0_étot_&ACC-N:SG r:pc#adv|_0_tože_ c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG .
+*CFK:	étâ@r@pc babê@c@pc persname (.) dom@c@pc ta@b@pc pastrojêlê@r@pc .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#n:anim|_baba_baba_&GEN-F:SG c:pr#n:prop|_persname_&GEN-F:SG c:pc#n:inanim|_dom_dom_&NOM-M:SG b:pc#ptl|_to_0_ r:pc#v:pf|_0_postroit´_&PRAET-0:PL .
+*CFK:	étâ@r@pc persname naš@c@pc (.) is@r@pc persname .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#n:prop|_persname_&NOM-M:SG c:pc#pro:poss:dei|_naš_naš_&NOM-M:SG r:pc#prep|_0_s_ c:pc#n:prop|_persname_&INS-F:SG .
+*CFA:	pomnju@c@pc .
+%mor:	c:pc#v:ipf|_pomnic´_pomnit´_&PRAES-1:SG .
+*CFA:	a@c@pc jny@b@pc ž@c@pc dze@b@pb žyvuc´@b@pb , persname ?
+%mor:	c:pc#ptl|_a_a_ b:pc#pro:pers:ana|_jany_0_&NOM-0:PL c:pc#ptl|_ža_že_ b:pb#adv|_dze_0_ b:pb#v:ipf|_žyc´_žit´_&PRAES-3:PL r:pc#n:prop|_persname_&VOC-F:SG ?
+*CFK:	persname žyvët@r@pc v@r@pr lêninhradzê@c@pb .
+%mor:	c:pc#n:prop|_persname_&NOM-M:SG r:pc#v:ipf|_žyc´_žit´_&PRAES-3:SG r:pr#prep|_0_v_ c:pb#n:loc|_leninhrad_leningrad_&LOC-M:SG .
+*CFA:	v@r@pr lêninhradzê@c@pb samom@r@pc , da@r@pc ?
+%mor:	r:pr#prep|_0_v_ c:pb#n:loc|_leninhrad_leningrad_&LOC-M:SG r:pc#pro:det|_sam_sam_&LOC-M:SG r:pc#ptl|_0_da_ ?
+*CFK:	da@r@pc , v@r@pr samom@r@pc lêninhradzê@c@pb , da@r@pc .
+%mor:	r:pc#ptl|_0_da_ r:pr#prep|_0_v_ r:pc#pro:det|_sam_sam_&LOC-M:SG c:pb#n:loc|_leninhrad_leningrad_&LOC-M:SG r:pc#ptl|_0_da_ .
+*CFK:	a@c@pc étâ@r@pc vot@r@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG r:pc#ptl|_0_vot_ .
+*CFK:	a@c@pc étâ@r@pc ty@c@pc budzêš@c@pb znat´@c@pr .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pb#v:ipf|_byc´_byt´_&FUT-2:SG c:pr#v:ipf|_znac´_znat´_&INF-0:0 .
+*CFK:	oj@c@pc , kak-tâ@r@pc jijo@r@pr ?
+%mor:	c:pc#co|_oj_oj_ r:pc#adv|_0_kak/to_ r:pr#pro:pers:ana|_jana_ona_&ACC-F:SG ?
+*CFK:	persname (.) persname žyvët@r@pc u@b@pc jaje@b@pb domê@c@pc .
+%mor:	c:pc#n:prop|_persname_&NOM-F:SG c:pc#n:prop|_persname_&NOM-M:SG r:pc#v:ipf|_žyc´_žit´_&PRAES-3:SG b:pc#prep|_u_0_ b:pb#pro:poss:ana|_jae_ee_&0-F:SG c:pc#n:inanim|_dom_dom_&LOC-M:SG .
+*CFA:	persname persname ?
+%mor:	c:pc#n:prop|_persname_&NOM-F:SG b:pb#adj:prop|_persname_&NOM-F:SG ?
+*CFA:	nu@c@pc , persname .
+%mor:	c:pc#ptl|_nu_nu_ c:pr#n:prop|_persname_&NOM-F:SG .
+*CFA:	nu@c@pc , persname persname žyvec´@b@pb@dial .
+%mor:	c:pc#ptl|_nu_nu_ c:pc#n:prop|_persname_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG b:pb#v:ipf|_žyc´_žit´_&PRAES-3:SG .
+*CFA:	u@b@pc bac´kênym@b@pb domê@c@pc .
+%mor:	b:pc#prep|_u_0_ b:pb#adj|_bac´kaú_0_&LOC-M:SG c:pc#n:inanim|_dom_dom_&LOC-M:SG .
+*CFK:	nu@c@pc dyk@b@pc (.) u@b@pc bat´kênym@b@pr .
+%mor:	c:pc#ptl|_nu_nu_ b:pc#ptl|_dyk_0_ b:pc#prep|_u_0_ b:pr#adj|_bac´kaú_0_&LOC-M:SG .
+*CFK:	ne@b@pc .
+%mor:	b:pc#ptl|_ne_0_ .
+*CFK:	nu@c@pc vot@r@pc étâ@r@pc , naprotêv@r@pr persname .
+%mor:	c:pc#ptl|_nu_nu_ r:pc#ptl|_0_vot_ r:pc#ptl|_0_éto_ r:pr#prep|_0_naprotiv_ c:pb#n:prop|_persname_&GEN-M:PL .
+*CFA:	persname ?
+%mor:	c:pc#n:prop|_persname_&NOM-M:SG ?
+*CFK:	persname .
+%mor:	c:pb#n:prop|_persname_&NOM-M:SG .
+*CFK:	persname i@c@pc +/.
+%mor:	c:pb#n:prop|_persname_&GEN-M:SG c:pc#conj|_i_i_ +/.
+*CFA:	a@c@pc , persname ?
+%mor:	c:pc#co|_a_a_ b:pc#n:prop|_persname_&NOM-F:SG ?
+*CFK:	da@r@pc .
+%mor:	r:pc#ptl|_0_da_ .
+*CFA:	pakojnâjê@r@pc , da@r@pc ?
+%mor:	r:pc#n:adj:anim|_0_pokojnyj_&NOM-F:SG r:pc#ptl|_0_da_ ?
+*CFK:	da@r@pc , ta@c@pc ž@c@pc persname , persname , da@r@pc .
+%mor:	r:pc#ptl|_0_da_ c:pc#ptl|_to_to_ c:pc#ptl|_ža_že_ c:pc#n:prop|_persname_&NOM-F:SG r:pc#n:prop|_persname_&VOC-F:SG r:pc#ptl|_0_da_ .
+*CFK:	ta@b@pc ž@c@pc persname .
+%mor:	b:pc#ptl|_to_0_ c:pc#ptl|_ža_že_ c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	takajê@c@pc mâladajê@c@pc , krasivâjê@r@pc .
+%mor:	c:pc#pro:dem|_taki_takoj_&NOM-F:SG c:pc#adj|_malady_molodoj_&NOM-F:SG r:pc#adj|_0_krasivyj_&NOM-F:SG .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc persname .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG .
+*CFA:	nu@c@pc jna@b@pc úsihda@r@ph byla@c@pc žénščýnâ@r@pb simpacičnâjê@r@pb .
+%mor:	c:pc#ptl|_nu_nu_ b:pc#pro:pers:ana|_jana_0_&NOM-F:SG r:ph#adv|_0_vsegda_ c:pc#v:ipf|_byc´_byt´_&PRAET-F:SG r:pb#n:anim|_0_ženščina_&NOM-F:SG r:pb#adj|_0_simpatičnyj_&NOM-F:SG .
+*CFK:	persname našý@c@pc .
+%mor:	c:pc#n:prop|_persname_&NOM-F:SG c:pc#pro:poss:dei|_naš_naš_&NOM-F:SG .
+*CFK:	ta@b@pc našý@c@pc tët´@r@pr persname .
+%mor:	b:pc#ptl|_to_0_ c:pc#pro:poss:dei|_naš_naš_&NOM-F:SG r:pr#n:anim|_cëcja_tetja_&VOC-F:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	étâ@r@pc jny@b@pc bylê@r@pc padruhê@r@pb .
+%mor:	r:pc#ptl|_0_éto_ b:pc#pro:pers:ana|_jany_0_&NOM-0:PL r:pc#v:ipf|_byc´_byt´_&PRAET-0:PL r:pb#n:anim|_0_podruga_&NOM-F:PL .
+*CFK:	jany@b@pb ščé@b@pb@w tut@c@pc mâladéjê@b@pc@dial [_/] mâladéjê@b@pc@dial saúsem@r@pb .
+%mor:	b:pb#pro:pers:ana|_jany_0_&NOM-0:PL b:pb#adv|_jaščé_0_ c:pc#adv|_tut_tut_ b:pc#adj|_malady_molodoj_&NOM-0:PL b:pc#adj|_malady_molodoj_&NOM-0:PL r:pb#adv|_0_sovsem_ .
+*CFA:	xlopcý@b@pc z@c@pc hitarâmê@c@pb .
+%mor:	b:pc#n:anim|_chlopec_0_&NOM-M:PL c:pc#prep|_z_s_ c:pb#n:inanim|_hitara_gitara_&INS-F:PL .
+*CFK:	a@c@pc što@c@pc ž@c@pc ty@c@pc dumâlâ@c@pc ?
+%mor:	c:pc#ptl|_a_a_ c:pc#pro:int|_što_čto_&ACC-N:SG c:pc#ptl|_ža_že_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#v:ipf|_dumac´_dumat´_&PRAET-F:SG ?
+*CFK:	oho@c@pb , takejê@b@pc@dial parnê@r@pc !
+%mor:	c:pb#co|_oho_ogo_ b:pc#pro:dem|_taki_takoj_&NOM-0:PL r:pc#n:anim|_0_paren´_&NOM-M:PL !
+*CFA:	ni@c@pc hâvari@c@ph ty@c@pc !
+%mor:	c:pc#ptl|_ne_ne_ c:ph#v:ipf|_havaryc´_govorit´_&IMPER-2:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG !
+*CFK:	étâ@r@pc ty@c@pc ni@c@pr znajêš@c@pc .
+%mor:	r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-2:SG .
+*CFK:	étâ@r@pc mne@c@pc bylâ@r@pc simnaccýt´@c@pr let@r@pc .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:pers:dei|_ja_ja_&DAT-1:SG r:pc#v:ipf|_byc´_byt´_&PRAET-N:SG c:pr#num:kard|_semnaccac´_semnadcat´_&NOM-0:0 r:pc#n:inanim|_0_god_&GEN-M:PL .
+*CFK:	étâ@r@pc ja@c@pc pajexâlâ@c@pc +...
+%mor:	r:pc#pro:dem|_0_étot_&NOM-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#v:pf|_paechac´_poechat´_&PRAET-F:SG +...
+*CFK:	étâ@r@pc ty@c@pc tož@r@pc ni@k@pc +/.
+%mor:	r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG r:pc#adv|_0_tože_ k:pc#na|_0_0_&na +/.
+*CFA:	+< étâ@r@pc úžy@r@pb bližý@r@pc .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG r:pb#adv|_0_uže_ r:pc#adv:cp|_0_bliže_ .
+*CFK:	vo@b@pc , ú@b@pb lêninhradzê@c@pb .
+%mor:	b:pc#ptl|_vo_0_ b:pb#prep|_u_0_ c:pb#n:loc|_leninhrad_leningrad_&LOC-M:SG .
+*CFK:	persname is@r@pc étym@h@pc samym@c@pc , (.) s@r@pc persname .
+%mor:	c:pr#n:prop|_persname_&NOM-F:SG r:pc#prep|_0_s_ h:pc#pro:dem|_héty_étot_&INS-M:SG c:pc#pro:det|_samy_samyj_&INS-M:SG r:pc#prep|_0_s_ r:pc#n:prop|_persname_&INS-M:SG .
+*CFK:	tak@c@pc , a@c@pc tutâ@b@pc@dial xto@b@pc ?
+%mor:	c:pc#ptl|_tak_tak_ c:pc#ptl|_a_a_ b:pc#adv|_tut_0_ b:pc#pro:int|_chto_0_&NOM-M:SG ?
+*CFA:	paxož@r@pc na@c@pc (.) papku@r@pc na@c@pc vašýhâ@b@pb , da@r@pc ?
+%mor:	r:pc#adj:brev|_0_pochožij_&0-M:SG c:pc#prep|_na_na_ r:pc#n:anim|_0_papka_&ACC-M:SG c:pc#prep|_na_na_ b:pb#pro:poss:dei|_vaš_vaš_&ACC-M:SG r:pc#ptl|_0_da_ ?
+*CFK:	nu@c@pc kanešnâ@r@pc .
+%mor:	c:pc#ptl|_nu_nu_ r:pc#disc|_0_konečno_ .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc mamkênâ@h@pc svadz´bâ@r@pb .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ h:pc#adj:poss|_mamkin_0_&NOM-F:SG r:pb#n:inanim|_0_svad´ba_&NOM-F:SG .
+*CFK:	a@c@pc étâ@r@pc našý@c@pc persname , persname .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:poss:dei|_naš_naš_&NOM-F:SG c:ph#n:loc|_persname_&NOM-F:SG r:pc#n:prop|_persname_&VOC-F:SG .
+*CFA:	+< vo@b@pc , vidzêš@r@pb ty@c@pc ?
+%mor:	b:pc#ptl|_vo_0_ r:pb#v:ipf|_0_videt´_&PRAES-2:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG ?
+*CFK:	vidzêš@r@pb , vun@b@pc babên@c@pc dom@c@pc ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pc#co|_vun´_0_ c:pc#adj:poss|_babin_babin_&NOM-M:SG c:pc#n:inanim|_dom_dom_&NOM-M:SG ?
+*CFK:	iščé@b@ph tam@c@pc , tam@c@pc čéj-tâ@r@pb .
+%mor:	b:ph#adv|_jaščé_0_ c:pc#adv|_tam_tam_ c:pc#adv|_tam_tam_ r:pb#pro:ind|_čyjs´ci_čej/to_&NOM-M:SG .
+*CFA:	i@c@pc darohâ@c@pb xarošýjê@r@pc , biz@c@pr jamâk@c@pc .
+%mor:	c:pc#conj|_i_i_ c:pb#n:inanim|_daroha_doroga_&NOM-F:SG r:pc#adj|_0_chorošij_&NOM-F:SG c:pr#prep|_bez_bez_ c:pc#n:inanim|_jamka_jamka_&GEN-F:PL .
+*CFA:	a@c@pc vo@b@pc étâ@r@pc ?
+%mor:	c:pc#ptl|_a_a_ b:pc#ptl|_vo_0_ r:pc#pro:dem|_0_étot_&NOM-N:SG ?
+*CFA:	ta@b@pc ž@c@pc vašý@c@pc +/.
+%mor:	b:pc#ptl|_to_0_ c:pc#ptl|_ža_že_ c:pc#pro:poss:dei|_vaš_vaš_&NOM-F:SG +/.
+*CFK:	persname .
+%mor:	c:pc#n:prop|_persname_&NOM-F:SG .
+*CFA:	pomnju@c@pc ž@c@pc ja@c@pc jaje@b@pb .
+%mor:	c:pc#v:ipf|_pomnic´_pomnit´_&PRAES-1:SG c:pc#ptl|_ža_že_ c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG b:pb#pro:pers:ana|_jana_ona_&ACC-F:SG .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc mamkâ@b@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ b:pc#n:anim|_mamka_0_&NOM-F:SG .
+*CFK:	mâladajê@c@pc iščé@b@ph .
+%mor:	c:pc#adj|_malady_molodoj_&NOM-F:SG b:ph#adv|_jaščé_0_ .
+*CFK:	vidzêš@r@pb , kastjum@c@pr strohêj@r@pb ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG c:pr#n:inanim|_kascjum_kostjum_&NOM-M:SG r:pb#adj|_strohi_strogij_&NOM-M:SG ?
+*CFK:	kak@r@pc paložýnâ@r@pc .
+%mor:	r:pc#conj|_0_kak_ r:pc#pred|_0_položennyj_ .
+*CFA:	nu@c@pc što@c@pc ty@c@pc !
+%mor:	c:pc#ptl|_nu_nu_ c:pc#ptl|_što_čto_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG !
+*CFK:	a@c@pc étâ@r@pc vo@b@pc persname .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-F:SG .
+*CFA:	ty@c@pc što@c@pc ?
+%mor:	c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#pro:ptl|_što_čto_ ?
+*CFK:	+< vo@b@pc pra@c@pc jakuju@b@pb fâtahrafêju@c@pb ja@c@pc tibe@r@pr hâvarilâ@c@ph .
+%mor:	b:pc#ptl|_vo_0_ c:pc#prep|_pra_pro_ b:pb#pro:int|_jaki_0_&ACC-F:SG c:pb#n:inanim|_fatahrafija_fotografija_&ACC-F:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG r:pr#pro:pers:dei|_0_ty_&DAT-2:SG c:ph#v:ipf|_havaryc´_govorit´_&PRAET-F:SG .
+*CFK:	vo@b@pc pra@c@pc jakuju@b@pb .
+%mor:	b:pc#ptl|_vo_0_ c:pc#prep|_pra_pro_ b:pb#pro:int|_jaki_0_&ACC-F:SG .
+*CFK:	vidzêš@r@pb , hâvarju@c@ph , vidzêš@r@pb , jakejê@b@pb@dial ú@c@pb jaje@b@pb volâsy@r@pc bylê@r@pc ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG c:ph#v:ipf|_havaryc´_govorit´_&PRAES-1:SG r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pb#pro:int|_jaki_0_&NOM-0:PL c:pb#prep|_u_u_ b:pb#pro:pers:ana|_jana_ona_&GEN-F:SG r:pc#n:inanim|_volas_volos_&NOM-M:PL r:pc#v:ipf|_byc´_byt´_&PRAET-0:PL ?
+*CFK:	a@c@pc vun@b@pc u@c@pc mjane@b@pb .
+%mor:	c:pc#conj|_a_a_ b:pc#co|_vun´_0_ c:pc#prep|_u_u_ b:pb#pro:pers:dei|_ja_ja_&GEN-1:SG .
+*CFK:	a@c@pc pâstajannâ@c@pc , vidzêš@r@pb , vo@b@pc ú@c@pb mjane@b@pb ?
+%mor:	c:pc#ptl|_a_a_ c:pc#adv|_pastajanna_postojanno_ r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pc#ptl|_vo_0_ c:pb#prep|_u_u_ b:pb#pro:pers:dei|_ja_ja_&GEN-1:SG ?
+*CFK:	bol´kê@b@pc jakejê@b@pb@dial .
+%mor:	b:pc#n:inanim|_bol´ka_0_&NOM-F:PL b:pb#pro:int|_jaki_0_&NOM-0:PL .
+*CFK:	vo@b@pc sičas@r@ph vo@b@pc , vo@b@pc huba@c@pb .
+%mor:	b:pc#ptl|_vo_0_ r:ph#adv|_0_sejčas_ b:pc#ptl|_vo_0_ b:pc#ptl|_vo_0_ c:pb#n:inanim|_huba_guba_&NOM-F:SG .
+*CFK:	vo@b@pc z´@b@pc dzectvâ@r@pb jetâ@b@pc@dial vo@b@pc .
+%mor:	b:pc#ptl|_vo_0_ b:pc#prep|_z_0_ r:pb#n:inanim|_0_detstvo_&GEN-N:SG b:pc#pro:dem|_héty_0_&NOM-N:SG b:pc#ptl|_vo_0_ .
+*CFA:	ljan´@c@pc@w ka@r@pc ty@c@pc , persname !
+%mor:	c:pc#v:pf|_hljanuc´_gljanut´_&IMPER-2:SG r:pc#ptl|_0_ka_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#n:prop|_persname_&NOM-F:SG !
+*CFA:	z@c@pc harmoškâj@r@pb .
+%mor:	c:pc#prep|_z_s_ r:pb#n:adj:inanim|_0_garmoška_&LOC-F:SG .
+*CFA:	ú@b@pb cil´njaškê@r@ph jakoj-tâ@h@pb .
+%mor:	b:pb#prep|_u_0_ r:ph#n:inanim|_0_tel´njaška_&LOC-F:SG h:pb#pro:ind|_jaks´ci_kakoj/to_&LOC-F:SG .
+*CFA:	pâljadzi@c@pb , persname !
+%mor:	c:pb#v:pf|_pahljadzec´_pogljadet´_&IMPER-2:SG r:pc#n:prop|_persname_&VOC-F:SG !
+*CFA:	persname persname .
+%mor:	b:pb#n:prop|_persname_&GEN-M:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFN:	persname ?
+%mor:	c:pb#n:adj:prop|_persname_&NOM-F:SG ?
+*CFA:	da@r@pc .
+%mor:	r:pc#ptl|_0_da_ .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc mamkâ@b@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ b:pc#n:anim|_mamka_0_&NOM-F:SG .
+*CFK:	i@c@pc vo@b@pc tut@c@pc ikajê-tâ@h@pc@w@dial znakomâjê@r@pc .
+%mor:	c:pc#conj|_i_i_ b:pc#ptl|_vo_0_ c:pc#adv|_tut_tut_ h:pc#pro:ind|_jakis´ci_kakoj/to_&NOM-F:SG r:pc#adj|_0_znakomyj_&NOM-F:SG .
+*CFK:	persname , pa-mojmu@b@pc .
+%mor:	c:pr#n:prop|_persname_&NOM-F:SG b:pc#adv|_pa/mojmu_0_ .
+*CFK:	(..) ina@b@pr@w@dial ú@b@pb kanavê@c@pc žyla@c@pc .
+%mor:	b:pr#pro:pers:ana|_jana_0_&NOM-F:SG b:pb#prep|_u_0_ c:pc#n:loc|_kanava_kanava_&LOC-N:SG c:pc#v:ipf|_žyc´_žit´_&PRAET-F:SG .
+*CFK:	a@c@pc ščas@r@pb@w u@b@pc bal´nicý@c@pc .
+%mor:	c:pc#ptl|_a_a_ r:pb#adv|_0_sejčas_ b:pc#prep|_u_0_ c:pc#n:inanim|_bal´nica_bol´nica_&LOC-F:SG .
+*CFK:	rabotâlâ@r@pc ana@r@pc (.) sistroj@c@pr xazjajkâj@r@pc ú@b@pb xêrurhijê@c@pb .
+%mor:	r:pc#v:ipf|_0_rabotat´_&PRAET-F:SG r:pc#pro:pers:ana|_0_ona_&NOM-F:SG c:pr#n:anim|_sjastra_sestra_&INS-F:SG r:pc#n:anim|_0_chozjajka_&INS-F:SG b:pb#prep|_u_0_ c:pb#n:inanim|_chirurhija_chirurgija_&LOC-F:SG .
+*CFA:	a@c@pc !
+%mor:	c:pc#co|_a_a_ !
+*CFK:	persname .
+%mor:	c:pb#n:prop|_persname_&NOM-F:SG .
+*CFA:	persname .
+%mor:	c:pb#n:prop|_persname_&NOM-F:SG .
+*CFK:	persname , da@r@pc , da@r@pc , da@r@pc .
+%mor:	c:pb#n:prop|_persname_&NOM-F:SG r:pc#ptl|_0_da_ r:pc#ptl|_0_da_ r:pc#ptl|_0_da_ .
+*CFA:	ci@b@pb persname .
+%mor:	b:pb#conj|_ci_0_ c:pb#n:prop|_persname_&NOM-F:SG .
+*CFA:	jak-tâ@h@pc jna@b@pc vot@r@pc .
+%mor:	h:pc#adv|_nejak_kak/to_ b:pc#pro:pers:ana|_jana_0_&NOM-F:SG r:pc#ptl|_0_vot_ .
+*CFK:	ti@b@pr persname .
+%mor:	b:pr#conj|_ci_0_ c:pr#n:prop|_persname_&NOM-F:SG .
+*CFK:	vot@r@pc što@c@pc jta@b@pc@dial +...
+%mor:	r:pc#ptl|_0_vot_ c:pc#conj|_što_čto_&na b:pc#pro:dem|_héty_0_&NOM-N:SG +...
+*CFK:	ani@r@pc ž@c@pc vo@b@pc družylê@c@pc .
+%mor:	r:pc#pro:pers:ana|_0_oni_&NOM-0:PL c:pc#ptl|_ža_že_ b:pc#ptl|_vo_0_ c:pc#v:ipf|_družyc´_družit´_&PRAET-0:PL .
+*CFA:	jasnâ@c@pc .
+%mor:	c:pc#adv|_jasna_jasno_ .
+*CFA:	da@r@pc , da@r@pc , da@r@pc .
+%mor:	r:pc#ptl|_0_da_ r:pc#ptl|_0_da_ r:pc#ptl|_0_da_ .
+*CFA:	paxožý@r@pc jna@b@pc .
+%mor:	r:pc#adj:brev|_0_pochožij_&0-F:SG b:pc#pro:pers:ana|_jana_0_&NOM-F:SG .
+*CFK:	nu@c@pc a@c@pc tut@c@pc mamkâ@b@pc savsem@r@pr iščé@b@ph , vidzêš@r@pb , mâladajê@c@pc .
+%mor:	c:pc#ptl|_nu_nu_ c:pc#ptl|_a_a_ c:pc#adv|_tut_tut_ b:pc#n:anim|_mamka_0_&NOM-F:SG r:pr#adv|_0_sovsem_ b:ph#adv|_jaščé_0_ r:pb#v:ipf|_0_videt´_&PRAES-2:SG c:pc#adj|_malady_molodoj_&NOM-F:SG .
+*CFK:	ti@b@pr biremênnâjê@r@pr ina@b@pr@w@dial tutâ@b@pc@dial .
+%mor:	b:pr#conj|_ci_0_ r:pr#adj|_0_beremennyj_&NOM-F:SG b:pr#pro:pers:ana|_jana_0_&NOM-F:SG b:pc#adv|_tut_0_ .
+*CFK:	étâ@r@pc ty@c@pc ni@c@pr znajêš@c@pc .
+%mor:	r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-2:SG .
+*CFK:	étâ@r@pc maja@c@pc persname .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:pc#pro:poss:dei|_moj_moj_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG .
+*CFK:	a@c@pc étâ@r@pc persname .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG c:ph#n:prop|_persname_&NOM-M:SG .
+*CFK:	persname , katoryjê@c@pc (.) ú@b@pb lêninhrad@c@pb ujexâlê@r@pc .
+%mor:	r:pc#adj:poss|_persname_&NOM-M:SG c:pc#pro:int|_katory_kotoryj_&NOM-0:PL b:pb#prep|_u_0_ c:pb#n:loc|_leninhrad_leningrad_&ACC-M:SG r:pc#v:pf|_0_uechat´_&PRAET-0:PL .
+*CFK:	étâ@r@pc ty@c@pc dvajurâdnyx@c@pc majix@c@pc ni@c@pr znajêš@c@pc .
+%mor:	r:pc#ptl|_0_éto_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#adj|_dvajuradny_dvojurodnyj_&ACC-0:PL c:pc#pro:poss:dei|_moj_moj_&GEN-0:PL c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-2:SG .
+*CFK:	étâ@r@pc +...
+%mor:	r:pc#ptl|_0_éto_ +...
+*CFK:	ja@c@pc sama@c@pc jix@b@pc ni@c@pr znaju@c@pc .
+%mor:	c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#pro:det|_sam_sam_&NOM-F:SG b:pc#pro:pers:ana|_jany_0_&ACC-0:PL c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG .
+*CFA:	daúno@c@pb ústričajêšsê@r@ph s@c@pc svaimê@c@pc dvajurâdnymê@c@pc ?
+%mor:	c:pb#adv|_daúno_davno_ r:ph#v:ipf|_0_vstrečat´sja_&PRAES-2:SG c:pc#prep|_z_s_ c:pc#pro:poss:refl|_svoj_svoj_&INS-0:PL c:pc#adj|_dvajuradny_dvojurodnyj_&INS-0:PL ?
+*CFK:	da@r@pc ani@r@pc ž@c@pc vabščé@r@pb , ja@c@pc ni@c@pr znaju@c@pc dze@b@pb .
+%mor:	r:pc#ptl|_0_da_ r:pc#pro:pers:ana|_0_oni_&NOM-0:PL c:pc#ptl|_ža_že_ r:pb#adv|_0_voobšče_ c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG b:pb#adv|_dze_0_ .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc tët´@r@pr persname , katorâjê@c@pc dâliko@r@pr .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ r:pr#n:anim|_cëcja_tetja_&VOC-F:SG c:pc#n:prop|_persname_&NOM-F:SG c:pc#pro:int|_katory_kotoryj_&NOM-F:SG r:pr#adv|_dalëka_daleko_ .
+*CFK:	a@c@pc jetâ@b@pc@dial vo@b@pc , persname , étât@r@pc vo@b@pc , persname .
+%mor:	c:pc#ptl|_a_a_ b:pc#pro:dem:kop|_héty_0_&NOM-N:SG b:pc#ptl|_vo_0_ r:pc#n:prop|_persname_&VOC-F:SG r:pc#pro:dem|_0_étot_&NOM-M:SG b:pc#ptl|_vo_0_ c:pc#n:prop|_persname_&NOM-M:SG .
+*CFK:	pomnêš@c@pc persname ?
+%mor:	c:pc#v:ipf|_pomnic´_pomnit´_&PRAES-2:SG c:pc#n:prop|_persname_&GEN-M:SG ?
+*CFK:	tot@r@pc , što@c@pc ú@b@pb molâdâstê@r@pr +/.
+%mor:	r:pc#pro:dem|_toj_tot_&NOM-M:SG c:pc#pro:int|_što_čto_&NOM-N:SG b:pb#prep|_u_0_ r:pr#n:inanim|_maladosc´_molodost´_&LOC-F:SG +/.
+*CFA:	pomnju@c@pc .
+%mor:	c:pc#v:ipf|_pomnic´_pomnit´_&PRAES-1:SG .
+*CFK:	ú@b@pb molâdâstê@r@pr .
+%mor:	b:pb#prep|_u_0_ r:pr#n:inanim|_maladosc´_molodost´_&LOC-F:SG .
+*CFK:	jon@b@pc sâmahonku@c@pb vo@b@pc honêt´@b@ph .
+%mor:	b:pc#pro:pers:ana|_ën_0_&NOM-M:SG c:pb#n:inanim|_samahonka_samogonka_&ACC-F:SG b:pc#ptl|_vo_0_ b:ph#v:ipf|_hnac´_gnat´_&PRAES-3:SG .
+*CFK:	vidzêš@r@pb ?
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG ?
+*CFA:	nu@c@pc a@c@pc što@c@pc ?
+%mor:	c:pc#ptl|_nu_nu_ c:pc#ptl|_a_a_ c:pc#pro:ptl|_što_čto_ ?
+*CFA:	ni@c@pc aby@b@pc što@c@pc .
+%mor:	c:pc#ptl|_ne_ne_ b:pc#ptl|_aby_0_ c:pc#pro:int|_što_čto_&NOM-N:SG .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc tëtê@c@pr persname , katorâjê@c@pc ú@b@pb hirmanêjê@c@ph .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pr#n:anim|_cëcja_tetja_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG c:pc#pro:int|_katory_kotoryj_&NOM-F:SG b:pb#prep|_u_0_ c:ph#n:loc|_hermanija_germanija_&LOC-F:SG .
+*CFK:	ta@r@pc , katorâjê@c@pc (.) za@c@pc vajennâhâ@b@pb zamuž@c@pc ušla@r@pc .
+%mor:	r:pc#pro:dem|_toj_tot_&NOM-F:SG c:pc#pro:int|_katory_kotoryj_&NOM-F:SG c:pc#prep|_za_za_ b:pb#adj|_vaenny_voennyj_&GEN-M:SG c:pc#adv|_zamuž_zamuž_ r:pc#v:pf|_0_ujti_&PRAET-F:SG .
+*CFK:	ina@b@pr@w@dial (.) ni@c@pc prijexâlâ@c@pr sjuda@r@pc .
+%mor:	b:pr#pro:pers:ana|_jana_0_&NOM-F:SG c:pc#ptl|_ne_ne_ c:pr#v:pf|_pryechac´_priechat´_&PRAET-F:SG r:pc#adv|_0_sjuda_ .
+*CFA:	tam@c@pc âstalas´@r@pc ?
+%mor:	c:pc#adv|_tam_tam_ r:pc#v:pf|_astacca_ostat´sja_&PRAET-F:SG ?
+*CFK:	tamâ@b@pc@dial ž@c@pc ina@b@pr@w@dial .
+%mor:	b:pc#adv|_tam_0_ c:pc#ptl|_ža_že_ b:pr#pro:pers:ana|_jana_0_&NOM-F:SG .
+*CFA:	a@c@pc , da@r@pc .
+%mor:	c:pc#co|_a_a_ r:pc#ptl|_0_da_ .
+*CFK:	volâsy@r@pc svaje@b@pc (.) útjanulâ@h@ph .
+%mor:	r:pc#n:inanim|_volas_volos_&ACC-M:PL b:pc#pro:poss:refl|_svoj_svoj_&ACC-0:PL h:ph#v:pf|_0_vtjanut´_&PRAET-F:SG .
+*CFK:	ta@b@pc nejkêj@h@pc dzjadzên´kâ@r@pb .
+%mor:	b:pc#ptl|_to_0_ h:pc#pro:ind|_nejki_0_&NOM-M:SG r:pb#n:anim|_0_djaden´ka_&NOM-M:SG .
+*CFK:	o@c@pc , persname .
+%mor:	c:pc#co|_o_o_ c:pb#n:prop|_persname_&NOM-M:SG .
+*CFK:	ljadzi@c@pb@w ka@r@pc .
+%mor:	c:pb#v:ipf|_hljadzec´_gljadet´_&IMPER-2:SG r:pc#ptl|_0_ka_ .
+*CFK:	+" na@c@pc pamêt´@c@pr .
+%mor:	c:pc#prep|_na_na_ c:pr#n:inanim|_pamjac´_pamjat´_&ACC-F:SG .
+*CFA:	+" persname at@c@pc persname !
+%mor:	c:pc#n:prop|_persname_&DAT-F:SG c:pc#prep|_ad_ot_ c:pc#n:prop|_persname_&GEN-M:SG !
+*CFK:	a@c@pc što@c@pc ž@c@pc ty@c@pc dumâlâ@c@pc !
+%mor:	c:pc#ptl|_a_a_ c:pc#pro:int|_što_čto_&ACC-N:SG c:pc#ptl|_ža_že_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG c:pc#v:ipf|_dumac´_dumat´_&PRAET-F:SG !
+*CFK:	oho@c@pb !
+%mor:	c:pb#co|_oho_ogo_ !
+*CFA:	a@c@pc , takojê@c@pc ú@c@pb mjane@b@pb (.) što-tâ@r@pc josc´@b@pb .
+%mor:	c:pc#co|_a_a_ c:pc#pro:dem|_taki_takoj_&NOM-N:SG c:pb#prep|_u_u_ b:pb#pro:pers:dei|_ja_ja_&GEN-1:SG r:pc#pro:ind|_štos´ci_čto/to_&NOM-N:SG b:pb#v:ipf|_byc´_0_&PRAES-3:SG .
+*CFA:	kapâjêc´@b@pb@dial što-tâ@r@pc .
+%mor:	b:pb#v:ipf|_kapac´_kopat´_&PRAES-3:SG r:pc#pro:ind|_štos´ci_čto/to_&ACC-N:SG .
+*CFK:	nu@c@pc što@c@pc ž@c@pc u@c@pc mjane@b@pb tam@c@pc kapâjêt´@b@pr ?
+%mor:	c:pc#ptl|_nu_nu_ c:pc#pro:int|_što_čto_&NOM-N:SG c:pc#ptl|_ža_že_ c:pc#prep|_u_u_ b:pb#pro:pers:dei|_ja_ja_&GEN-1:SG c:pc#adv|_tam_tam_ b:pr#v:ipf|_kapac´_kopat´_&PRAES-3:SG ?
+*CFA:	nu@c@pc étâ@r@pc , ja@c@pc znaju@c@pc , persname .
+%mor:	c:pc#ptl|_nu_nu_ r:pc#pro:dem|_0_étot_&ACC-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG c:pb#n:prop|_persname_&NOM-F:SG .
+*CFK:	+< a@c@pc jetâ@b@pc@dial vot@r@pc +...
+%mor:	c:pc#ptl|_a_a_ b:pc#pro:dem|_héty_0_&NOM-N:SG r:pc#ptl|_0_vot_ +...
+*CFK:	vo@b@pc jetâ@b@pc@dial +...
+%mor:	b:pc#ptl|_vo_0_ b:pc#pro:dem|_héty_0_&NOM-F:SG +...
+*CFK:	kak-tâ@r@pc ž@c@pc jijo@r@pr zavut@r@pc , persname ?
+%mor:	r:pc#adv|_0_kak/to_ c:pc#ptl|_ža_že_ r:pr#pro:pers:ana|_jana_ona_&ACC-F:SG r:pc#v:ipf|_zvac´_zvat´_&PRAES-3:PL r:pc#n:prop|_persname_&VOC-F:SG ?
+*CFA:	xto@b@pc jta@b@pc@dial takajê@c@pc ?
+%mor:	b:pc#pro:int|_chto_0_&NOM-M:SG b:pc#pro:dem|_héty_0_&NOM-N:SG c:pc#pro:dem|_taki_takoj_&NOM-F:SG ?
+*CFK:	persname , vo@b@pc .
+%mor:	b:pr#n:prop|_persname_&NOM-F:SG b:pc#ptl|_vo_0_ .
+*CFA:	a@c@pc , ljan´@c@pc@w , paxožý@r@pc .
+%mor:	c:pc#co|_a_a_ c:pc#v:pf|_hljanuc´_gljanut´_&IMPER-2:SG r:pc#adj|_0_pochožij_&NOM-F:SG .
+*CFK:	+< pâljadzi@c@pb ka@r@pc , kakajê@r@pc krasivâjê@r@pc , mâladajê@c@pc , persname .
+%mor:	c:pb#v:pf|_pahljadzec´_pogljadet´_&IMPER-2:SG r:pc#ptl|_0_ka_ r:pc#pro:int|_0_kakoj_&NOM-F:SG r:pc#adj|_0_krasivyj_&NOM-F:SG c:pc#adj|_malady_molodoj_&NOM-F:SG r:pc#n:prop|_persname_&VOC-F:SG .
+*CFK:	smatri@r@pr , kakajê@r@pc mâladajê@c@pc .
+%mor:	r:pr#v:ipf|_0_smotret´_&IMPER-2:SG r:pc#pro:int|_0_kakoj_&NOM-F:SG c:pc#adj|_malady_molodoj_&NOM-F:SG .
+*CFA:	da@r@pc , mâladyjê@c@pc vse@c@pr krasivyjê@r@pc .
+%mor:	r:pc#ptl|_0_da_ c:pc#adj|_malady_molodoj_&NOM-0:PL c:pr#pro:det|_uves´_ves´_&NOM-0:PL r:pc#adj|_0_krasivyj_&NOM-0:PL .
+*CFK:	+< a@c@pc papkâ@r@pc mâladoj@r@pc !
+%mor:	c:pc#ptl|_a_a_ r:pc#n:anim|_0_papka_&NOM-M:SG r:pc#adj|_malady_molodoj_&NOM-M:SG !
+*CFA:	vo@b@pc vidzêš@r@pb , jakej@b@pb@dial persname .
+%mor:	b:pc#ptl|_vo_0_ r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pb#pro:int|_jaki_0_&NOM-M:SG c:pc#n:prop|_persname_&NOM-M:SG .
+*CFK:	+< a@c@pc étâ@r@pc vo@b@pc tëtê@c@pr persname , katorâjê@c@pc vo@b@pc s@r@pc étêm@r@pr vajennym@c@pc , katoryj@r@pc ú@b@pb hirmanêjê@c@ph .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pr#n:anim|_cëcja_tetja_&NOM-F:SG c:pc#n:prop|_persname_&NOM-F:SG c:pc#pro:int|_katory_kotoryj_&NOM-F:SG b:pc#ptl|_vo_0_ r:pc#prep|_0_s_ r:pr#pro:dem|_0_étot_&INS-M:SG c:pc#adj|_vaenny_voennyj_&INS-M:SG r:pc#pro:int|_katory_kotoryj_&NOM-M:SG b:pb#prep|_u_0_ c:ph#n:loc|_hermanija_germanija_&LOC-F:SG .
+*CFK:	étâ@r@pc vo@b@pc naš@c@pc persname mâladoj@r@pc .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pc#pro:poss:dei|_naš_naš_&NOM-M:SG b:pc#n:prop|_persname_&NOM-M:SG r:pc#adj|_malady_molodoj_&NOM-M:SG .
+*CFK:	xto-tâ@h@pc uxâ@r@pc jamu@c@pb âbrýsavaú@b@ph .
+%mor:	h:pc#pro:ind|_chtos´ci_kto/to_&NOM-M:SG r:pc#n:inanim|_0_ucho_&ACC-N:SG c:pb#pro:pers:ana|_ën_on_&DAT-M:SG b:ph#v:pf|_abrysavac´_0_&PRAET-M:SG .
+*CFK:	vidzêš@r@pb , šapku@c@pc , uxâ@r@pc .
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG c:pc#n:inanim|_šapka_šapka_&ACC-F:SG r:pc#n:inanim|_0_ucho_&ACC-N:SG .
+*CFK:	a@c@pc étâ@r@pc vot@r@pc svadz´bâ@r@pb č´´jaj-tâ@r@pc (.) na@c@pc mosênê@c@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG r:pc#ptl|_0_vot_ r:pb#n:inanim|_0_svad´ba_&NOM-F:SG r:pc#pro:ind|_0_čej/to_&NOM-F:SG c:pc#prep|_na_na_ c:pc#n:loc|_mosin_mosin_&LOC-M:SG .
+*CFK:	nu@c@pc ja@c@pc ni@c@pr znaju@c@pc č´´ja@r@pc .
+%mor:	c:pc#ptl|_nu_nu_ c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG r:pc#pro:int|_0_čej_&NOM-F:SG .
+*CFK:	a@c@pc étâ@r@pc vo@b@pc tožý@r@pc kâvaler@c@pc (.) moj@c@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ r:pc#adv|_0_tože_ c:pc#n:anim|_kavaler_kavaler_&NOM-M:SG c:pc#pro:poss:dei|_moj_moj_&NOM-M:SG .
+*CFK:	vidzêš@r@pb , pâdpisaú@b@pb +/.
+%mor:	r:pb#v:ipf|_0_videt´_&PRAES-2:SG b:pb#v:pf|_padpisac´_0_&PRAET-M:SG +/.
+*CFA:	vo@b@pc tak@c@pc vo@b@pc !
+%mor:	b:pc#ptl|_vo_0_ c:pc#adv|_tak_tak_ b:pc#ptl|_vo_0_ !
+*CFK:	+, na@c@pc pamêt´@c@pr .
+%mor:	c:pc#prep|_na_na_ c:pr#n:inanim|_pamjac´_pamjat´_&ACC-F:SG .
+*CFK:	pâljadzi@c@pb ka@r@pc !
+%mor:	c:pb#v:pf|_pahljadzec´_pogljadet´_&IMPER-2:SG r:pc#ptl|_0_ka_ !
+*CFA:	+< pânâdarilê@r@pr .
+%mor:	r:pr#v:pf|_0_ponadarit´_&PRAET-0:PL .
+*CFK:	a@c@pc ú@c@pb tjabe@b@ph netu@r@pc takix@c@pc ?
+%mor:	c:pc#ptl|_a_a_ c:pb#prep|_u_u_ b:ph#pro:pers:dei|_ty_ty_&GEN-2:SG r:pc#pred|_0_netu_ c:pc#pro:dem|_taki_takoj_&GEN-0:PL ?
+*CFA:	mne@c@pc takix@c@pc ni@c@pc pânâdarilê@r@pr .
+%mor:	c:pc#pro:pers:dei|_ja_ja_&DAT-1:SG c:pc#pro:dem|_taki_takoj_&GEN-0:PL c:pc#ptl|_ne_ne_ r:pr#v:pf|_0_ponadarit´_&PRAET-0:PL .
+*CFK:	a@c@pc što@c@pc jta@b@pc@dial ja@c@pc ni@c@pc pâxvalilâs´@r@pc ?
+%mor:	c:pc#ptl|_a_a_ c:pc#conj|_što_čto_ b:pc#pro:dem|_héty_0_&NOM-N:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG c:pc#ptl|_ne_ne_ r:pc#v:pf|_pachvalicca_pochvalit´sja_&PRAET-F:SG ?
+*CFA:	vot@r@pc âtyšču@r@pb (.) i@c@pc prêd´´jaúlju@c@ph priténzêjê@c@pr .
+%mor:	r:pc#ptl|_0_vot_ r:pb#v:pf|_0_otyskat´_&FUT-1:SG c:pc#conj|_i_i_ c:ph#v:pf|_prad´´javic´_pred´´javit´_&FUT-1:SG c:pr#n:inanim|_préténzija_pretenzija_&ACC-F:PL .
+*CFA:	skažu@c@pc +"/.
+%mor:	c:pc#v:pf|_skazac´_skazat´_&FUT-1:SG +"/.
+*CFA:	+" što-tâ@r@pc takojê@c@pc ?
+%mor:	r:pc#pro:ind|_štos´ci_čto/to_&NOM-N:SG c:pc#pro:dem|_taki_takoj_&NOM-N:SG ?
+*CFA:	inciresnâ@r@ph .
+%mor:	r:ph#adv|_0_interesno_ .
+*CFK:	+< a@c@pc étâ@r@pc vo@b@pc , persname , babêny@c@pc persname strojut´@h@pr dom@c@pc .
+%mor:	c:pc#ptl|_a_a_ r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ r:pc#n:prop|_persname_&VOC-F:SG c:pc#adj:poss|_babin_babin_&NOM-0:PL c:pr#adj:poss|_persname_&NOM-0:PL h:pr#v:ipf|_0_stroit´_&PRAES-3:PL c:pc#n:inanim|_dom_dom_&ACC-M:SG .
+*CFK:	étâ@r@pc vo@b@pc papkâ@r@pc sjadzit´@b@ph kurêt´@b@pr .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ r:pc#n:anim|_0_papka_&NOM-M:SG b:ph#v:ipf|_sjadzec´_sidet´_&PRAES-3:SG b:pr#v:ipf|_kuryc´_kurit´_&PRAES-3:SG .
+*CFK:	étâ@r@pc vo@b@pc dzed@c@pb persname moj@c@pc iščo@r@ph .
+%mor:	r:pc#pro:dem:kop|_0_étot_&NOM-N:SG b:pc#ptl|_vo_0_ c:pb#n:anim|_dzed_ded_&NOM-M:SG r:pc#n:prop|_persname_&NOM-M:SG c:pc#pro:poss:dei|_moj_moj_&NOM-M:SG r:ph#adv|_0_ešče_ .
+*CFK:	papkên@r@pc papkâ@r@pc .
+%mor:	r:pc#adj:poss|_0_papkin_&NOM-M:SG r:pc#n:anim|_0_papka_&NOM-M:SG .
+*CFA:	+< papkâ@r@pc , da@r@pc , papkên@r@pc ?
+%mor:	r:pc#n:anim|_0_papka_&NOM-M:SG r:pc#ptl|_0_da_ r:pc#adj:poss|_0_papkin_&NOM-M:SG ?
+*CFA:	ux@c@pc ty@c@pc !
+%mor:	c:pc#co|_uch_uch_ c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG !
+*CFK:	dom@c@pc iščé@b@ph strojut´@h@pr .
+%mor:	c:pc#n:inanim|_dom_dom_&ACC-M:SG b:ph#adv|_jaščé_0_ h:pr#v:ipf|_0_stroit´_&PRAES-3:PL .
+*CFK:	i@c@pc što-tâ@r@pc jny@b@pc tut@c@pc iščé@b@ph , nu@c@pc .
+%mor:	c:pc#conj|_i_i_ r:pc#pro:ind|_štos´ci_čto/to_&ACC-N:SG b:pc#pro:pers:ana|_jany_0_&NOM-0:PL c:pc#adv|_tut_tut_ b:ph#adv|_jaščé_0_ c:pc#ptl|_nu_nu_ .
+*CFK:	ni@c@pr znaju@c@pc , kakoj-tâ@r@pc vot@r@pc +...
+%mor:	c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG r:pc#pro:ind|_0_kakoj/to_&NOM-M:SG r:pc#ptl|_0_vot_ +...
+*CFK:	nu@c@pc , karočý@r@pb , papkâ@r@pc moj@c@pc tut@c@pc .
+%mor:	c:pc#ptl|_nu_nu_ r:pb#adv:cp|_0_koroče_ r:pc#n:anim|_0_papka_&NOM-M:SG c:pc#pro:poss:dei|_moj_moj_&NOM-M:SG c:pc#adv|_tut_tut_ .
+*CFA:	oj@c@pc , da@r@pc !
+%mor:	c:pc#co|_oj_oj_ r:pc#ptl|_0_da_ !
+*CFA:	hody@r@pb , hody@r@pb .
+%mor:	r:pb#n:inanim|_hod_god_&NOM-M:PL r:pb#n:inanim|_hod_god_&NOM-M:PL .
+*CFK:	tak@r@pc vo@b@pc našli@r@pc ž@c@pc étê@r@pr fâtahrafêjê@c@pb .
+%mor:	r:pc#ptl|_0_tak_ b:pc#ptl|_vo_0_ r:pc#v:pf|_0_najti_&PRAET-0:PL c:pc#ptl|_ža_že_ r:pr#pro:dem|_0_étot_&ACC-0:PL c:pb#n:inanim|_fatahrafija_fotografija_&ACC-F:PL .
+*CFA:	ni@c@pc hâvari@c@ph ty@c@pc !
+%mor:	c:pc#ptl|_ne_ne_ c:ph#v:ipf|_havaryc´_govorit´_&IMPER-2:SG c:pc#pro:pers:dei|_ty_ty_&NOM-2:SG !
+*CFK:	+< vâspâminanêjê@r@pc éty@h@pc za@c@pc vâspâminanêjêmê@r@pc .
+%mor:	r:pc#n:inanim|_0_vospominanie_&NOM-N:PL h:pc#ptl|_0_éto_ c:pc#prep|_za_za_ r:pc#n:inanim|_0_vospominanie_&INS-N:PL .
+*CFA:	oj@c@pc , točnâ@r@pb .
+%mor:	c:pc#co|_oj_oj_ r:pb#adv|_0_točno_ .
+@End

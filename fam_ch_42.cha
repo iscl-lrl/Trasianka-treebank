@@ -1,0 +1,50 @@
+﻿@UTF8
+@Begin
+@Languages:	hyru, rus
+@Participants:	CFN Town, CFA Migrant, CFB Town
+@ID:	rus|fam|CFN|20;|female|central||Town|secondary||
+@ID:	hyru|fam|CFA|42;|female|central||Migrant|secondary||
+@ID:	hyru|fam|CFB|14;|female|central||Town|secondary||
+@L1 of CFN:	brms
+@L1 of CFA:	brms
+@L1 of CFB:	brms
+@MT of CFN:	be
+@MT of CFA:	be
+@MT of CFB:	be
+@FL of CFN:	brms
+@FL of CFA:	brms
+@FL of CFB:	brms
+@Situation:	Conversation at home
+*CFN:	úsë@c@pb kupilâ@c@pc ?
+%mor:	c:pb#pro:det|_uves´_ves´_&ACC-N:SG c:pc#v:pf|_kupic´_kupit´_&PRAET-F:SG ?
+*CFN:	(.) ničohâ@b@pb ni@c@pc zabylâ@c@pc ?
+%mor:	b:pb#pro:neg|_ništo_ničto_&GEN-N:SG c:pc#ptl|_ne_ne_ c:pc#v:pf|_zabyc´_zabyt´_&PRAET-F:SG ?
+*CFA:	navernâ@r@pc .
+%mor:	r:pc#disc|_0_naverno_ .
+*CFA:	ni@c@pr znaju@c@pc ja@c@pc .
+%mor:	c:pr#ptl|_ne_ne_ c:pc#v:ipf|_znac´_znat´_&PRAES-1:SG c:pc#pro:pers:dei|_ja_ja_&NOM-1:SG .
+*CFB:	tvaja@c@pc ljubimâjê@c@pc savêčývâ@c@pb tam@c@pc tožý@r@pc na@c@pc kasecê@c@pb , kstacê@r@pb .
+%mor:	c:pc#pro:poss:dei|_tvoj_tvoj_&NOM-F:SG c:pc#adj|_ljubimy_ljubimyj_&NOM-F:SG c:pb#n:prop|_savičava_savičeva_&NOM-F:SG c:pc#adv|_tam_tam_ r:pc#adv|_0_tože_ c:pc#prep|_na_na_ c:pb#n:inanim|_kaseta_kasseta_&LOC-F:SG r:pb#adv|_0_kstati_ .
+*CFN:	a@c@pc šo@u@pc za@c@pc pesnê@c@pc ?
+%mor:	c:pc#ptl|_a_a_ u:pc#pro:int|_0_0_&NOM-N:SG c:pc#prep|_za_za_ c:pc#n:inanim|_pesnja_pesnja_&NOM-F:SG ?
+*CFB:	ljubov´@c@pr maskva@c@pc ["] .
+%mor:	c:pr#n:inanim|_ljuboú_ljubov´_&NOM-F:SG c:pc#n:loc|_maskva_moskva_&NOM-F:SG ["] .
+*CFB:	krasivâjê@r@pc pesnê@c@pc .
+%mor:	r:pc#adj|_0_krasivyj_&NOM-F:SG c:pc#n:inanim|_pesnja_pesnja_&NOM-F:SG .
+*CFN:	krasivâjê@r@pc ?
+%mor:	r:pc#adj|_0_krasivyj_&NOM-F:SG ?
+*CFB:	vo@b@pc jta@b@pc@dial jon@b@pc žydkê@h@pc , jak@b@pc mâlako@c@pc .
+%mor:	b:pc#ptl|_vo_0_ b:pc#pro:dem|_héty_0_&NOM-N:SG b:pc#pro:pers:ana|_ën_0_&NOM-M:SG h:pc#adj|_0_žydkij_&NOM-M:SG b:pc#conj|_jak_0_ c:pc#n:inanim|_malako_moloko_&NOM-N:SG .
+*CFA:	ni@c@pr nravêccý@r@pc , astav´@r@pr .
+%mor:	c:pr#ptl|_ne_ne_ r:pc#v:ipf|_0_nravit´sja_&PRAES-3:SG r:pr#v:pf|_0_ostavit´_&IMPER-2:SG .
+*CFB:	aha@c@pb .
+%mor:	c:pb#co|_aha_aga_ .
+*CFB:	pajdzëm@r@pb .
+%mor:	r:pb#v:pf|_pajsci_pojti_&FUT-1:PL .
+*CFN:	pâdaždzi@r@pb .
+%mor:	r:pb#v:pf|_0_podoždat´_&IMPER-2:SG .
+*CFN:	kuda@r@pc ?
+%mor:	r:pc#adv|_0_kuda_ ?
+*CFN:	začem@r@pr ?
+%mor:	r:pr#adv|_0_začem_ ?
+@End
